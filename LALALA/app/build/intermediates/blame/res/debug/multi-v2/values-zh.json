@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "F:\\projects\\Demo\\MyGlideTest\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh\\values-zh.xml",
+            "map": [
+                {
+                    "source": "F:\\projects\\Demo\\MyGlideTest\\library\\build\\intermediates\\bundles\\debug\\res\\values-zh\\values-zh.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,116,183",
+                        "endColumns": "60,66,64",
+                        "endOffsets": "111,178,243"
+                    },
+                    "to": {
+                        "startLines": "14,15,16",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "598,659,726",
+                        "endColumns": "60,66,64",
+                        "endOffsets": "654,721,786"
+                    }
+                },
+                {
+                    "source": "F:\\projects\\Demo\\MyGlideTest\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "from": {
+                        "startLines": "2,11,10,4,7,5,9,3,6,8,14,13,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "57,463,420,148,286,193,374,102,240,331,606,548,507",
+                        "endColumns": "43,42,41,43,43,45,44,44,44,41,45,56,39",
+                        "endOffsets": "96,501,457,187,325,234,414,142,280,368,647,600,542"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,17",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,99,142,184,228,272,318,363,408,453,495,541,791",
+                        "endColumns": "43,42,41,43,43,45,44,44,44,41,45,56,39",
+                        "endOffsets": "94,137,179,223,267,313,358,403,448,490,536,593,826"
+                    }
+                }
+            ]
+        }
+    ]
+}

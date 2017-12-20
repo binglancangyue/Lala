@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "F:\\projects\\Demo\\MyGlideTest\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en\\values-en.xml",
+            "map": [
+                {
+                    "source": "F:\\projects\\Demo\\MyGlideTest\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endColumns": "43",
+                        "endOffsets": "96"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "43",
+                        "endOffsets": "94"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\Android-PickerView-3.2.5.aar\\84eddad9a014825fa58df97425e9ff07\\res\\values-en\\values-en.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,108,144,182,222,260,300,351",
+                        "endColumns": "52,35,37,39,37,39,50,36",
+                        "endOffsets": "103,139,177,217,255,295,346,383"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "99,152,188,226,266,304,344,395",
+                        "endColumns": "52,35,37,39,37,39,50,36",
+                        "endOffsets": "147,183,221,261,299,339,390,427"
+                    }
+                }
+            ]
+        }
+    ]
+}

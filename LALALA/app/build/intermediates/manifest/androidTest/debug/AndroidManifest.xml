@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.administrator.myTest.test">
+
+    <uses-sdk android:minSdkVersion="19" android:targetSdkVersion="26" />
+
+    <application android:debuggable="true" >
+        <uses-library android:name="android.test.runner" />
+    </application>
+
+    <instrumentation android:name="android.support.MySingletonModeTest.runner.AndroidJUnitRunner"
+                     android:targetPackage="com.example.administrator.myTest"
+                     android:handleProfiling="false"
+                     android:functionalTest="false"
+                     android:label="Tests for com.example.administrator.myTest"/>
+</manifest>
